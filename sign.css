@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav1{
+    background: rgb(8, 80, 109);
+    border-radius: 15px;
+    color: black;
+}
+.nav1:hover{
+    text-decoration: underline;
+    color: black;
+}
+.logo{
+    width: 80px;
+ 
+}
+.nav{
+    background-color: transparent;
+    width: auto;
+   
+}
+.nav a{
+    text-decoration: none;
+    float: right;
+    padding: 25px;
+    color:rgb(173, 174, 175);
+}
+/*form section*/
+.container{
+float: left;
+
+width: 600px;
+}
+.form{
+    font-size: 16px;
+   
+}
+.box{
+    border-radius:15px;
+    width: 300px;
+    padding: 20px; 
+}
+.par2{
+    font-weight: 700;
+
+}
+.input{
+    text-align: center;
+}
+.note{
+  
+   font-size: 15px; 
+    font-weight: 600;
+}
+.check{
+    font-size: 15px;
+    font-family: "dosis",sans-serif;
+    font-weight: 500;
+}
+.par1{
+    word-spacing: 4;
+    line-height: 1.5;
+    font-size: 15px;
+}
+.submit{
+    padding: 20px;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(21, 76, 121);
+    background: transparent;
+}
+.submit:hover{
+    text-decoration: underline;
+}
+.submit1{
+   text-align: center;
+}
+.par5{
+    font-family: "dosis",sans-serif;
+}
+p{
+    font-size: 15px;
+    font-weight: 700;
+
+}
+.link{
+    color: rgb(24, 127, 211);
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: underline;
+}
+/*paragraph*/
+.open{
+float: right;
+width: 500px;
+margin: 70px;
+}
+.par3{
+    font-family: "dosis",sans-serif;
+    
+}
+.par4{
+    font-size: 35px;
+    line-height: 3;
+}
+.par5{
+    line-height: 2;
+    font-weight: 700;
+}
